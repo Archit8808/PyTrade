@@ -1,0 +1,8 @@
+(x+y)^2 = x^2 + y^2 + 2xy 
+
+(x+y)^3 = x^3 + 3xy^2 + 3x^2y + y^3
+
+why 3xy^2 has a 3?
+because there are 3 choose 2 ways to pick the two (x+y) terms from (x+y)^3 to give 
+3 copies of 3 x y^2
+

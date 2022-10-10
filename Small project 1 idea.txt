@@ -1,0 +1,11 @@
+small project 1 : 
+
+Power of diversification along with the ratio of weights : 
+
+what should be the weights of the two stocks in your portfolio which would essentially give you the best
+risk minimization .
+
+Plot a graph 
+
+And study the relationship 
+ 

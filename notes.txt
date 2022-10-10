@@ -1,0 +1,11 @@
+Discount curves : d(T) -> discount factor corrposponding to 
+                            discounting back from time T 
+
+Spot rate curves : y(T) -> Yield curve . d(T) = e^-y(T)T
+                            continuosly compounded
+
+y(T) = -log (d(T))/T
+where T is the maturity period of that bond and  y(T) is the yield
+
+
+new idea : bond bootstrapper

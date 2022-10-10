@@ -1,0 +1,97 @@
+->>>A machine can process either: 11x1 kg. per week, or 45x2 kg.,
+or 30x3kg. per week. What combinations of x1, x2 and x3 can
+be loaded in 8 weeks?
+.... ≤ 8 or .... ≥ 8 ?
+
+
+11 x1 kg / week 
+
+
+x1/11 + x2/45 + x3/40 <= 8 weeks 
+(kg / kg/week) = (week) 
+
+
+11x1 / 11 = 1 weeks work 
+22x1/11 = 2weeks work 
+88x1/11 = 8 weeks work 
+
+so if we had 88 x1 in the question , we would have loaded the required weeks work in just 
+one week 
+
+->>>Ingredient x1 must constitute at most 25% of all ingredients
+X1, X2, and X3?
+
+x1/x1+x2+x3 <= 25/100
+
+4x1 <= x1+x2+x3 
+3x1 - x2 - x3 <= 0 
+
+
+-->>>> 
+Hamilton’s Poutine is a delivery food business. The company
+makes a net income of $1.00 for each regular poutine and $1.50 for
+each deluxe poutine sold. The firm currently has 150 pounds of
+potatoes and 50 pounds of topping mix. Each regular poutine uses
+1 pound of potatoes and 4 ounces (note: 16 ounces = 1 pound) of
+topping mix. Each deluxe poutine uses 1 pound of potatoes and 8
+ounces of topping mix. Based on the past demand per week,
+Hamilton’s Poutine can sell at least 50 regular poutines and at
+least 25 deluxe poutines. The problem is to determine the number
+of regular and deluxe poutines they should make to maximize net
+income. Formulate this problem as a linear programming problem
+
+
+f(x) = 1x1 + 1.5x2 
+
+x1 -> regular poutine 
+x2 -> premium poutine 
+
+where C1 = 1 ( dollars per potuine) 
+C2 = 1.5 ( dollars per premium poutine) 
+
+
+Constraint 1 : 1x1 + 1x2 <= 150  
+As we have 150 pounds of potatoes and each poutine just takes 1 pound
+Hence C3,C4 = 1,1 
+where they are pound required per poutine 
+
+
+Constraint 2 : 4/16 x1 + 8x2 <= 50 
+As we have 50 pounds of potatoes and each poutine just takes 1 pound = 16 ounces
+C5,C6 = 4/16 , 8 as 
+
+Constraint 3 : x1 >= 50 
+	       x2 >= 25 
+
+
+
+->>> >>>>
+
+Example 2
+A company makes two products (x1 and x2), measured in kg using
+two machines (A and B). Each kg of x1 that is produced requires
+50 minutes processing time on machine A and 30 minutes
+processing time on machine B. Each kg. of x2 that is produced
+requires 24 minutes processing time on machine A and 33 minutes
+processing time on machine B. At the start of the current week
+there are 30 kg. of x1 and 90 kg. of x2 in stock. Available
+processing time on machine A is forecast to be 40 hours and on
+machine B is forecast to be 35 hours.
+The demand for x1 in the current week is forecast to be 75 kg. and
+for x2 is forecast to be 95 kg. Company policy is to maximize the
+combined sum of the units of x1 and the units of x2 in stock at the
+end of the week
+
+
+Machine A :       50x1/60 + 24x2/60 <= 40 
+C1 = 50/60 , C2 = 24/60    (hours)  as rhs is in hours 
+
+Machine B : 
+
+
+
+Stock at the end : Stock at the start of the week + production(in the week) - demand 
+
+x1 + 30 - 75 + (x2 + 90 - 95) 
+
+= x1 + x2 - 50 (function to be maximized) 

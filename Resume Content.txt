@@ -1,0 +1,60 @@
+Summary : Level 3 Computer Science Student with keen interest in Machine Learning applications and Financial Statistics . Well-versed in software development, data analytics ,and trend visualization. Confident in multiple languages, frameworks and programming tools. Dedicated to develop new technologies and methods to solve challenging problems.
+
+
+Internship1 : Shadowed daily activities of office staff, gaining understanding of Computerized Implementation of automobile gear production
+Evaluated existing practices, notifying management of potential areas for improvement or bottlenecks while assessing the key theories for employee productivity and motivation 
+
+
+Mathematical models
+Testing code
+Java
+Python
+C
+Microsoft Office Suite
+Google Workspace
+Filing system management
+Financial risk analysis
+Stock forecasting
+Investment analysis
+MATLAB
+R software
+SQL
+
+
+Current Grade Point Average : 3.3 / 4
+Received the McMaster International Student entrance scholarship for an 95 % grade-point average in high school
+Relevant courses: Data Structures, Database Management , Discrete Mathematics, Software Documentation, , Concurrent Programming , Linear Optimization.
+
+
+
+Project1 : Image Recognition Software for Automobile Vehicles
+
+           Used Convolutional Neural Networks and Extensive Machine Learning Algorithms to create a Computer Vision Software
+           Worked in a group of 3 and simulated various tests on the software together
+           Software's Validation Accuracy : 93%
+
+Project2 : Math Visualizer
+
+           Worked In a Group of 4 to develop a Web Application aids highschool students in basic mathematic topics
+           Learned the fundamentals of application design , including hypothesis testing, interviewing the target audience , and developing the backbone of the application using nodes and networks
+
+
+Project3 : Value Investing Algorithm
+
+           Developing a portfolio building algorithm based on key value investing theories.
+           Learned how to scrape financial information from the internet and implement Thread Dispatching techniques to maximize efficiency.
+           Focused on organizing string information like balance sheets , reports in data structures to set different criteria selecting stocks.
+
+Project4 :  Options Trading Algorithm
+
+            Developing an Options trading algorithm based on the options pricing theory and the black scholes formula 
+            Learned the basic engineering of financial derivatives with Python and fundamental arbitrage concepts
+
+
+Extra Curricular Activities : Analyst at Mcmaster Fintech Club (Learned startup valuation techniques , collaboration , communication skills , elevator pitch)
+
+                              Soccer ( Highschool Competitions Upto district level , and League Competitions) (learned teamwork,and focus) 
+
+
+
+
